@@ -1,0 +1,4 @@
+The logic of this function is quite simple part of taking the values of the debit, the credit and the opening balance, to calculate the resulting balance. In this figure, you can see how it returns the correct amount, which is 150.
+you can see how it returns the correct amount, which is 150.
+When evaluating
+
